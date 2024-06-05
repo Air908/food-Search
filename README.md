@@ -2,7 +2,7 @@
 
 #### Overview
 
-The Food Search Flutter Application is a comprehensive mobile app designed to provide users with a seamless and intuitive way to browse, search, and manage food items. Users can view detailed descriptions, nutritional information, and prices for a variety of food items, add their favorite items to a cart, and proceed to checkout. The app emphasizes a clean and modern user interface with interactive elements to enhance the user experience.
+The Food Search Flutter Application is a comprehensive mobile app designed to provide users with a seamless and intuitive way to browse, search, and manage food items. Users can view detailed descriptions, nutritional information, and prices for a variety of food items, add their favorite items to a cart, and proceed to checkout. The app emphasizes a clean, modern user interface with interactive elements to enhance user experience.
 
 #### Features
 
@@ -13,11 +13,13 @@ The Food Search Flutter Application is a comprehensive mobile app designed to pr
 
 2. **Detailed Food Information**:
    - Show detailed information about each food item including a larger image, full description, and nutritional information.
-   - Allow users to add food items to their favorites and cart.
+   - Allow users to add food items to their favorites and carts.
 
 3. **User Authentication**:
    - Simple login screen for user authentication.
    - Basic validation for username and password fields.
+   - username:= user
+   - password:= password
 
 4. **Shopping Cart**:
    - Display items added to the shopping cart.
